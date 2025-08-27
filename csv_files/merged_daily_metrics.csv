@@ -1,0 +1,6 @@
+Date,TotalPnL,AvgPnL,closedPnL_numeric_median,closedPnL_numeric_count,TotalNotionalUSD,AvgNotionalUSD,notional_usd_median,AvgLeverage,leverage_numeric_median,ActiveTraders,Classification
+1970-01-01,0.0,,,0,0.0,,,,,32,Fear
+1970-01-01,0.0,,,0,0.0,,,,,32,Extreme Fear
+1970-01-01,0.0,,,0,0.0,,,,,32,Neutral
+1970-01-01,0.0,,,0,0.0,,,,,32,Greed
+1970-01-01,0.0,,,0,0.0,,,,,32,Extreme Greed
