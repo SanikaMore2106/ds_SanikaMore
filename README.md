@@ -7,7 +7,7 @@ This repository contains the Data Science assignment exploring the relationship 
 ds_Sanika_More/
 ├── notebook_1.ipynb       # Main Colab-ready notebook with analysis and plots
 ├── csv_files/             # Cleaned and processed data files
-│   └── merged_daily_metrics.xls
+│   └── merged_daily_metrics.csv
 ├── outputs/               # Visual outputs (charts, graphs)
 │   ├── Fear vs Greed Counts.jpg
 │   ├── Average Daily Total PnL by Sentiment.jpg
