@@ -29,6 +29,6 @@ ds_Sanika_More/
 - **Fear periods** → Lower activity and volumes but more stable outcomes.  
 
 ## 📝 Notes
-- All visualizations are generated using `matplotlib` (no seaborn/styles).
+- All visualizations are generated using `matplotlib`.
 - Sentiment data comes from the Bitcoin Fear & Greed Index (`classification`, `value`).
 - Trader data includes PnL, trade sizes in USD, and account-level activity.
