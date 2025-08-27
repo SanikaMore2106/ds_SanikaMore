@@ -7,14 +7,11 @@ This repository contains the Data Science assignment exploring the relationship 
 ds_Sanika_More/
 ├── notebook_1.ipynb       # Main Colab-ready notebook with analysis and plots
 ├── csv_files/             # Cleaned and processed data files
-│   ├── historical_data_clean.csv
-│   ├── fear_greed_index_clean.csv
-│   └── merged_daily_metrics.csv
+│   └── merged_daily_metrics.xls
 ├── outputs/               # Visual outputs (charts, graphs)
-│   ├── classification_count.png
-│   ├── pnl_by_classification.png
-│   ├── volume_by_classification.png
-│   └── timeseries_totalpnl.png
+│   ├── Fear vs Greed Counts.jpg
+│   ├── Average Daily Total PnL by Sentiment.jpg
+│   ├── Avg Daily Leverage by Sentiment.jpg
 ├── ds_report.pdf          # Final summarized insights and explanations
 └── README.md              # Repository documentation
 ```
